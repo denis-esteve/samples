@@ -1,4 +1,3 @@
-# Automation decision services zip files
+# Project files
 
-This repository contains zip files ready to be loaded in Automation Decision Services Designer.
-Your Designer directly points to this directory for the Import sample feature of the Import wizard described in (doc link?)
+This repository contains sample decision projects in compressed files. You import these files into Decision Designer, which points directly to this directory (see [Importing decision projects](https://www.ibm.com/support/knowledgecenter/SSYHZ8_20.0.x/com.ibm.dba.aid/topics/tsk_import_projects.html)).
