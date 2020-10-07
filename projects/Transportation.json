@@ -1,6 +1,6 @@
 {
-  "Description": "Decisions for the transportation industry.",
-  "Type": 1,
+  "description": "Decisions for the transportation industry.",
+  "type": 1,
   "nbProjects": 3,
   "level": 1,
   "iconName": "Bus32",

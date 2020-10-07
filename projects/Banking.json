@@ -1,6 +1,6 @@
 {
-  "Description": "Decisions for the banking industry.",
-  "Type": 1,
+  "description": "Decisions for the banking industry.",
+  "type": 1,
   "nbProjects": 1,
   "level": 0,
   "iconName": "Finance32",

@@ -1,6 +1,6 @@
 {
-  "Description": "Decisions in French.",
-  "Type": 1,
+  "description": "Decisions in French.",
+  "type": 1,
   "nbProjects": 2,
   "level": 0,
   "iconName": "ShoppingCart32",

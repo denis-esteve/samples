@@ -1,6 +1,6 @@
 {
-  "Description": "Decisions for compensation policies.",
-  "Type": 1,
+  "description": "Decisions for compensation policies.",
+  "type": 1,
   "nbProjects": 1,
   "level": 0,
   "iconName": "Receipt32",
