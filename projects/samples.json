@@ -1,0 +1,83 @@
+{
+  "Banking": {
+    "description": "Decisions for the banking industry.",
+    "type": 1,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Finance",
+    "inkColor": "0x6929c4",
+    "backgroundColor": "0xe8daff"
+  },
+  "Compensation": {
+    "description": "Decisions for compensation policies.",
+    "type": 1,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Receipt",
+    "inkColor": "0x9f1853",
+    "backgroundColor": "0xffd6e8"
+  },
+  "French": {
+    "description": "Decisions in French.",
+    "type": 1,
+    "nbProjects": 2,
+    "level": 0,
+    "iconName": "ShoppingCart",
+    "inkColor": "0x00539a",
+    "backgroundColor": "0xbae6ff"
+  },
+  "GettingStarted": {
+    "description": "Getting started tutorial answer projects.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "inkColor": "0x645f49",
+    "backgroundColor": "0xfff3ba"
+  },
+  "Pricing": {
+    "description": "Decisions to reflect pricing policies.",
+    "type": 1,
+    "nbProjects": 1,
+    "level": 1,
+    "iconName": "Money",
+    "inkColor": "0x5e454b",
+    "backgroundColor": "0xffbaca"
+  },
+  "Retail": {
+    "description": "Decisions for the retail industry, for example, loyalty programs and shopping carts.",
+    "type": 1,
+    "nbProjects": 2,
+    "level": 1,
+    "iconName": "ShoppingCart",
+    "inkColor": "0x00539a",
+    "backgroundColor": "0xbae6ff"
+  },
+  "Telecom": {
+    "description": "Decisions for the telecom industry.",
+    "type": 1,
+    "nbProjects": 1,
+    "level": 2,
+    "iconName": "PhoneFilled",
+    "inkColor": "0x515842",
+    "backgroundColor": "0xebffba"
+  },
+  "Training": {
+    "description": "Learn key features in Automation Decision Services through practical examples.",
+    "type": 0,
+    "nbProjects": 5,
+    "level": 0,
+    "iconName": "Education",
+    "inkColor": "0x515842",
+    "backgroundColor": "0xebffba"
+  },
+  "Transportation": {
+    "description": "Decisions for the transportation industry.",
+    "type": 1,
+    "nbProjects": 3,
+    "level": 1,
+    "iconName": "Bus",
+    "inkColor": "0x0f6128",
+    "backgroundColor": "0xa7f0ba"
+  }
+}
