@@ -5,8 +5,8 @@
     "nbProjects": 1,
     "level": 0,
     "iconName": "Finance",
-    "inkColor": "0x6929c4",
-    "backgroundColor": "0xe8daff"
+    "inkColor": "purple-70",
+    "backgroundColor": "purple-20"
   },
   "Compensation": {
     "description": "Decisions for compensation policies.",
@@ -14,8 +14,8 @@
     "nbProjects": 1,
     "level": 0,
     "iconName": "Receipt",
-    "inkColor": "0x9f1853",
-    "backgroundColor": "0xffd6e8"
+    "inkColor": "magenta-70",
+    "backgroundColor": "magenta-20"
   },
   "French": {
     "description": "Decisions in French.",
@@ -23,8 +23,8 @@
     "nbProjects": 2,
     "level": 0,
     "iconName": "ShoppingCart",
-    "inkColor": "0x00539a",
-    "backgroundColor": "0xbae6ff"
+    "inkColor": "blue-70",
+    "backgroundColor": "blue-20"
   },
   "GettingStarted": {
     "description": "Getting started tutorial answer projects.",
@@ -32,8 +32,8 @@
     "nbProjects": 1,
     "level": 0,
     "iconName": "Education",
-    "inkColor": "0x645f49",
-    "backgroundColor": "0xfff3ba"
+    "inkColor": "teal-70",
+    "backgroundColor": "teal-20"
   },
   "Pricing": {
     "description": "Decisions to reflect pricing policies.",
@@ -50,8 +50,8 @@
     "nbProjects": 2,
     "level": 1,
     "iconName": "ShoppingCart",
-    "inkColor": "0x00539a",
-    "backgroundColor": "0xbae6ff"
+    "inkColor": "cyan-70",
+    "backgroundColor": "cyan-20"
   },
   "Telecom": {
     "description": "Decisions for the telecom industry.",
@@ -59,8 +59,8 @@
     "nbProjects": 1,
     "level": 2,
     "iconName": "PhoneFilled",
-    "inkColor": "0x515842",
-    "backgroundColor": "0xebffba"
+    "inkColor": "red-70",
+    "backgroundColor": "red-20"
   },
   "Training": {
     "description": "Learn key features in Automation Decision Services through practical examples.",
@@ -68,8 +68,8 @@
     "nbProjects": 5,
     "level": 0,
     "iconName": "Education",
-    "inkColor": "0x515842",
-    "backgroundColor": "0xebffba"
+    "inkColor": "warm-gray-70",
+    "backgroundColor": "warm-gray-20"
   },
   "Transportation": {
     "description": "Decisions for the transportation industry.",
@@ -77,7 +77,7 @@
     "nbProjects": 3,
     "level": 1,
     "iconName": "Bus",
-    "inkColor": "0x0f6128",
-    "backgroundColor": "0xa7f0ba"
+    "inkColor": "green-70",
+    "backgroundColor": "green-20"
   }
 }
