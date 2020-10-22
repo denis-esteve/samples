@@ -15,12 +15,12 @@
     "iconName": "Receipt",
     "iconColor": "magenta"
   },
-  "French": {
+  "Language": {
     "description": "Decisions in French.",
     "type": 0,
     "nbProjects": 2,
     "level": 0,
-    "iconName": "ShoppingCart",
+    "iconName": "Education",
     "iconColor": "blue"
   },
   "GettingStarted": {
