@@ -17,7 +17,7 @@
   },
   "French": {
     "description": "Decisions in French.",
-    "type": 1,
+    "type": 0,
     "nbProjects": 2,
     "level": 0,
     "iconName": "ShoppingCart",
