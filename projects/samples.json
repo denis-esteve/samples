@@ -41,8 +41,8 @@
     "type": 0,
     "nbProjects": 1,
     "level": 0,
-    "iconName": "Education",
-    "iconColor": "teal"
+    "iconName": "IbmWatsonMachineLearning",
+    "iconColor": "yellow"
   },
   "Pricing": {
     "displayName": "Pricing",
