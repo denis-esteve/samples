@@ -17,7 +17,7 @@
     "iconName": "Receipt",
     "iconColor": "magenta"
   },
-  "Language": {
+  "NLanguage": {
     "displayName": "Language",
     "description": "Decisions in French.",
     "type": 0,
@@ -71,7 +71,7 @@
     "iconName": "PhoneFilled",
     "iconColor": "red"
   },
-  "Training": {
+  "HTraining": {
     "displayName": "Training",
     "description": "Learn key features in Automation Decision Services through practical examples.",
     "type": 0,
