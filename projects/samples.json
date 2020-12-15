@@ -36,8 +36,8 @@
     "iconColor": "teal"
   },
   "MachineLearningStart": {
-    "displayName": "Machine learning start",
-    "description": "ML Start tutorial answer decision services.",
+    "displayName": "Machine learning full",
+    "description": "ML Start tutorial full path decision service.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
