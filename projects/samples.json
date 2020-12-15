@@ -88,5 +88,14 @@
     "level": 1,
     "iconName": "Bus",
     "iconColor": "green"
+  },
+  "MchineLearningCustomerLoyalty": {
+    "displayName": "Machine learning customer loyalty",
+    "description": "Decision for customer churn including machine learning.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 1,
+    "iconName": "WatsonMachineLearning",
+    "iconColor": "yellow"
   }
 }
