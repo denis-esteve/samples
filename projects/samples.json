@@ -19,7 +19,7 @@
   },
   "NLanguage": {
     "displayName": "Language",
-    "description": "Decisions in French.",
+    "description": "Decisions in French and German.",
     "type": 0,
     "nbProjects": 2,
     "level": 0,
