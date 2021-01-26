@@ -35,14 +35,32 @@
     "iconName": "WatsonMachineLearning",
     "iconColor": "yellow"
   },
-  "Language": {
-  "displayName": "Language",
-  "description": "Decisions in French and German.",
-  "type": 0,
-  "nbProjects": 3,
-  "level": 0,
-  "iconName": "Education",
-  "iconColor": "blue"
+  "French": {
+    "displayName": "French - Français",
+    "description": "Decisions en français.",
+    "type": 0,
+    "nbProjects": 2,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "German": {
+    "displayName": "German - Deutsch",
+    "description": "Entscheidungen in deutscher Sprache.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Italian": {
+    "displayName": "Italian - Italiano",
+    "description": "Decisioni in italiano.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
   },
   "Banking": {
     "displayName": "Banking",
