@@ -62,6 +62,15 @@
     "iconName": "Education",
     "iconColor": "blue"
   },
+  "Spanish": {
+    "displayName": "Spanish - Español",
+    "description": "Decisiones en Español.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
   "Banking": {
     "displayName": "Banking",
     "description": "Decisions for the banking industry.",
