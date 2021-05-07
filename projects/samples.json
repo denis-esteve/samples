@@ -35,6 +35,15 @@
     "iconName": "WatsonMachineLearning",
     "iconColor": "yellow"
   },
+  "Chinese": {
+    "displayName": "Chinese - 中文",
+    "description": "以中文书写的决策",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
   "French": {
     "displayName": "French - Français",
     "description": "Decisions en français.",
