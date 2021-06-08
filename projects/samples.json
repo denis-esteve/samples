@@ -17,9 +17,27 @@
     "iconName": "Education",
     "iconColor": "warm-gray"
   },
-  "MachineLearningStart": {
-    "displayName": "Machine learning short",
-    "description": "ML Start tutorial short path decision service.",
+  "MachineLearningQuick": {
+    "displayName": "Machine Learning Quick Tutorial - Loan Approval",
+    "description": "Import a PMML model directly in ADS and connect Predictive Model (requires pre-configured OPS ML provider).",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "WatsonMachineLearning",
+    "iconColor": "yellow"
+  },
+  "MachineLearningShort": {
+    "displayName": "Machine Learning Short Tutorial - Loan Approval",
+    "description": "Connect an existing Predictive Model to a remote PMML model uploaded in Watson Machine Learning.",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "WatsonMachineLearning",
+    "iconColor": "yellow"
+  },
+  "MachineLearningComplete": {
+    "displayName": "Machine Learning Complete Tutorial - Loan Approval",
+    "description": "Build a Predictive Model, connect to remote PMML or Notebook in Watson Machine Learning.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -27,8 +45,8 @@
     "iconColor": "yellow"
   },
   "MachineLearningCustomerLoyalty": {
-    "displayName": "Machine learning customer loyalty",
-    "description": "Decision for customer churn including machine learning.",
+    "displayName": "Machine Learning Sample - Customer Loyalty",
+    "description": "Use two ML models (Customer Churn and Life-Time Value) to make a Retention Decision.",
     "type": 0,
     "nbProjects": 1,
     "level": 1,
