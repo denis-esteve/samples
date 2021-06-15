@@ -1,7 +1,7 @@
 {
   "GettingStarted": {
     "displayName": "Getting started",
-    "description": "Getting started tutorial answer decision services.",
+    "description": "Learn how to build a decision service.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -10,7 +10,7 @@
   },
   "Training": {
     "displayName": "Training",
-    "description": "Learn key features in Automation Decision Services through practical examples.",
+    "description": "Learn the basics of Automation Decision Services through practical examples.",
     "type": 0,
     "nbProjects": 5,
     "level": 0,
@@ -18,8 +18,8 @@
     "iconColor": "warm-gray"
   },
   "MachineLearningQuick": {
-    "displayName": "Machine Learning Quick Tutorial - Loan Approval",
-    "description": "Import a PMML model directly in ADS and connect Predictive Model (requires pre-configured OPS ML provider).",
+    "displayName": "Machine learning quick tutorial - Loan approval",
+    "description": "Import a machine learning model directly into Decision Designer. You need to configure an OPS provider to complete this tutorial.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -27,8 +27,8 @@
     "iconColor": "yellow"
   },
   "MachineLearningShort": {
-    "displayName": "Machine Learning Short Tutorial - Loan Approval",
-    "description": "Connect an existing Predictive Model to a remote PMML model uploaded in Watson Machine Learning.",
+    "displayName": "Machine learning short tutorial - Loan approval",
+    "description": "Connect an existing predictive model to a machine learning model stored in Watson Machine Learning.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -36,8 +36,8 @@
     "iconColor": "yellow"
   },
   "MachineLearningComplete": {
-    "displayName": "Machine Learning Complete Tutorial - Loan Approval",
-    "description": "Build a Predictive Model, connect to remote PMML or Notebook in Watson Machine Learning.",
+    "displayName": "Machine learning complete tutorial - Loan approval",
+    "description": "Create a predictive model and connect it to a machine learning model stored in Watson Machine Learning.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -45,8 +45,8 @@
     "iconColor": "yellow"
   },
   "MachineLearningCustomerLoyalty": {
-    "displayName": "Machine Learning Sample - Customer Loyalty",
-    "description": "Use two ML models (Customer Churn and Life-Time Value) to make a Retention Decision.",
+    "displayName": "Machine learning sample - Customer loyalty",
+    "description": "Use machine learning to reduce customer churn rate.",
     "type": 0,
     "nbProjects": 1,
     "level": 1,
@@ -100,7 +100,7 @@
   },
   "Banking": {
     "displayName": "Banking",
-    "description": "Decisions for the banking industry.",
+    "description": "Validate loans and compute insurance rates for the requested loan.",
     "type": 1,
     "nbProjects": 1,
     "level": 0,
@@ -109,7 +109,7 @@
   },
   "Compensation": {
     "displayName": "Compensation",
-    "description": "Decisions for compensation policies.",
+    "description": "Calculate sales commissions based on compensation policies.",
     "type": 1,
     "nbProjects": 1,
     "level": 0,
@@ -118,7 +118,7 @@
   },
    "Pricing": {
     "displayName": "Pricing",
-    "description": "Decisions to reflect pricing policies.",
+    "description": "Calculate shipping price after applicable discount.",
     "type": 1,
     "nbProjects": 1,
     "level": 1,
@@ -127,7 +127,7 @@
   },
   "Retail": {
     "displayName": "Retail",
-    "description": "Decisions for the retail industry, for example, loyalty programs and shopping carts.",
+    "description": "Calculate loyalty discoount and shopping cart total.",
     "type": 1,
     "nbProjects": 2,
     "level": 1,
@@ -136,7 +136,7 @@
   },
   "Telecom": {
     "displayName": "Telecom",
-    "description": "Decisions for the telecom industry.",
+    "description": "Determine the best offer to make to customers to reduce churn rate.",
     "type": 1,
     "nbProjects": 1,
     "level": 2,
@@ -145,7 +145,7 @@
   },
   "Transportation": {
     "displayName": "Transportation",
-    "description": "Decisions for the transportation industry.",
+    "description": "Provide maintenance recommendations, determine baggage compliance, and clean an address record.",
     "type": 1,
     "nbProjects": 3,
     "level": 1,
