@@ -19,7 +19,7 @@
   },
   "MachineLearningQuick": {
     "displayName": "Machine learning quick tutorial - Loan approval",
-    "description": "Import a machine learning model directly into Decision Designer. You need to configure an OPS provider to complete this tutorial.",
+    "description": "Consume a PMML model to take an informed decision with an OPS ML provider.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -28,7 +28,7 @@
   },
   "MachineLearningShort": {
     "displayName": "Machine learning short tutorial - Loan approval",
-    "description": "Connect an existing predictive model to a machine learning model stored in Watson Machine Learning.",
+    "description": "Connect a predictive model to a PMML model hosted in Watson Machine Learning.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -37,7 +37,7 @@
   },
   "MachineLearningComplete": {
     "displayName": "Machine learning complete tutorial - Loan approval",
-    "description": "Create a predictive model and connect it to a machine learning model stored in Watson Machine Learning.",
+    "description": "Build a predictive model, connect to an ML model hosted in Watson Machine Learning, and deploy.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
