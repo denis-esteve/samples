@@ -127,7 +127,7 @@
   },
   "Retail": {
     "displayName": "Retail",
-    "description": "Calculate loyalty discoount and shopping cart total.",
+    "description": "Calculate loyalty discount and shopping cart total.",
     "type": 1,
     "nbProjects": 2,
     "level": 1,
