@@ -19,7 +19,7 @@
   },
   "MachineLearningQuick": {
     "displayName": "Machine learning quick tutorial - Loan approval",
-    "description": "Consume a PMML model to take an informed decision with an OPS ML provider.",
+    "description": "Import a machine learning model (PMML format), and store and invoke it through Open Prediction Service.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -28,7 +28,7 @@
   },
   "MachineLearningShort": {
     "displayName": "Machine learning short tutorial - Loan approval",
-    "description": "Connect a predictive model to a PMML model hosted in Watson Machine Learning.",
+    "description": "Connect a predictive model to a machine learning model (PMML format) hosted on Watson Machine Learning.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
@@ -37,7 +37,7 @@
   },
   "MachineLearningComplete": {
     "displayName": "Machine learning complete tutorial - Loan approval",
-    "description": "Build a predictive model, connect to an ML model hosted in Watson Machine Learning, and deploy.",
+    "description": "Build a predictive model, connect it to a machine learning model hosted on Watson Machine Learning, and deploy it.",
     "type": 0,
     "nbProjects": 1,
     "level": 0,
