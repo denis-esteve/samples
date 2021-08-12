@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="projects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projects/Telecom.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Banking.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Retail.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Chinese.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Training.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/French.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/MachineLearningShort.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/MachineLearningCustomerLoyalty.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Compensation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/MachineLearningStart.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/German.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/MachineLearningQuick.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Transportation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/MachineLearningComplete.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Spanish.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Italian.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/Pricing.zip!/" />
+      <root url="jar://$PROJECT_DIR$/projects/GettingStarted.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
